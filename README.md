@@ -23,6 +23,7 @@ This code enables users to easily manage the Particle Hierarchy and streamlines 
 ![Ekran görüntüsü 2023-05-23 232403](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/090be77f-ec43-43ef-985b-7ea207fb5bce)
 3.Select "Window" and then "Particle Hierarchy Editor" to open the window, and place it wherever you prefer.
 ![Ekran görüntüsü 2023-05-23 232502](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/795625a3-db2b-4425-b708-0d71f9d21a18)
+
 4.Create a particle system object in the hierarchy and customize the desired properties to be used as the default settings.
 5.Whether you make this object a prefab or use it directly in the scene, make sure to assign it to the Particle Properties field.
 ![Screenshot_2](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/e8699e70-515f-4852-8a8e-25428d728be6)
