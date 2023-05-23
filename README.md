@@ -39,5 +39,7 @@ This code enables users to easily manage the Particle Hierarchy and streamlines 
 How to use?
 https://vimeo.com/829587150?share=copy
 
+Lastly, please be cautious when using the tool in your personal projects as you may experience crashes. I haven't taken extensive precautions against potential issues that may arise from modifications beyond what I specified in the plugin description. Thank you.
+
 *License
 This project is distributed under the GNU General Public License (GPL) v3. For the full text of the license, please refer to the LICENSE file.
