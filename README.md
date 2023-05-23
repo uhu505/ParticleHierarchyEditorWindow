@@ -19,14 +19,21 @@ This code enables users to easily manage the Particle Hierarchy and streamlines 
 *How to Install?*
 
 1. Download the ParticleHierarchyEditor C# file.
+
 2. Drag and drop the file to any location in the Unity Project window.
+
 ![Ekran görüntüsü 2023-05-23 232403](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/090be77f-ec43-43ef-985b-7ea207fb5bce)
+
 3.Select "Window" and then "Particle Hierarchy Editor" to open the window, and place it wherever you prefer.
+
 ![Ekran görüntüsü 2023-05-23 232502](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/795625a3-db2b-4425-b708-0d71f9d21a18)
 
 4.Create a particle system object in the hierarchy and customize the desired properties to be used as the default settings.
+
 5.Whether you make this object a prefab or use it directly in the scene, make sure to assign it to the Particle Properties field.
+
 ![Screenshot_2](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/e8699e70-515f-4852-8a8e-25428d728be6)
+
 ![Screenshot_1](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/0de16076-438d-4720-a10b-697c18ed7415)
 
 How to use?
