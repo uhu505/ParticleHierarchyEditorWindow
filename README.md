@@ -1,5 +1,5 @@
 # ParticleHierarchyEditorWindow
-This code is designed to be shared on GitHub and provides a tool for manipulating the Particle Hierarchy in Unity Editor. Below is a detailed explanation of what the code does and how it provides benefits:
+This code provides a tool to manipulate the Particle Hierarchy in Unity Editor. Below are explanations of what the code does and how it benefits:
 
 1. The code creates a custom window called "ParticleHierarchyEditorWindow", which is a subclass of EditorWindow. This window provides a user interface within the Unity Editor and is used to process selected GameObjects.
 
