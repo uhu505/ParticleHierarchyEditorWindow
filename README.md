@@ -36,7 +36,8 @@ This code enables users to easily manage the Particle Hierarchy and streamlines 
 
 ![Screenshot_1](https://github.com/uhu505/ParticleHierarchyEditorWindow/assets/68116848/0de16076-438d-4720-a10b-697c18ed7415)
 
-29.05.2023 Update
+29.05.2023 Updated!
+
 You can now add multiple child objects to the selected object or the project you're creating within the hierarchy!
 
 
