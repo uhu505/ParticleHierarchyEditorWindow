@@ -16,7 +16,7 @@ public class ParticleHierarchyEditorWindow : EditorWindow
     [MenuItem("Window/Particle Hierarchy Editor")]
     static void Init()
     {
-        ParticleHierarchyEditorWindow window = (ParticleHierarchyEditorWindow)EditorWindow.GetWindow(typeof(ParticleHierarchyEditorWindow));
+        ParticleHierarchyEditorWindow window = EditorWindow.GetWindow<ParticleHierarchyEditorWindow>("Particle Hierarchy Editor");
         window.Show();
         EditorApplication.update += window.UpdateSelection;
     }
